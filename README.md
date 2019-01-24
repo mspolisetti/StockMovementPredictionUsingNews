@@ -1,5 +1,5 @@
-# stockmovementprediction
-Predict Stock Movements using news
+# Predict Stock Movements using news
+
 
 1. Feature Engineering
 
