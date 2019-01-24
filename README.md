@@ -1,15 +1,19 @@
 # Predict Stock Movements using news
 
+This project dealtt with the question - Can we use the content of news analytics to predict stock price performance? 
+The ubiquity of data today enables investors at any scale to make better investment decisions. The challenge is ingesting and interpreting the data to determine which data is useful, finding the signal in this sea of information. 
 
 1. Feature Engineering
 
 Merge Market & News Data
+
 Impute returns data using NOCB https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
+
 Use companies that have data for VolumeCounts7D/NoveltyCount7D.
 
 Find outliers of all variables and treat them. https://www.kaggle.com/artgor/eda-feature-engineering-and-everything
 
-3 Create new features to capture autocorrelation: e.g: https://www.kaggle.com/youhanlee/simple-quant-features-using-python Make these specific to a particular Stock.
+Create new features to capture autocorrelation: e.g: https://www.kaggle.com/youhanlee/simple-quant-features-using-python Make these specific to a particular Stock.
 
 
 Create new Features to account for Time Series auto Correlation between rows.
