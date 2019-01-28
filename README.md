@@ -12,7 +12,7 @@ Here are the steps we took in coming up with a model for our problem.
 
 3. Explore companies that have data for news variables such as VolumeCounts7D/NoveltyCount7D. 
 
-3.1 Exploe the time series data to see which subset of data is more relavent to current problem.
+3.1 Explore the time series data to see which subset of data is more relavent to current problem.
   
 4. Find outliers of all variables and treat them. https://www.kaggle.com/artgor/eda-feature-engineering-and-everything
 
